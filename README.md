@@ -7,3 +7,13 @@ Fork this repo and click the button below to deploy.
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 See the guide at https://render.com/docs/deploy-strapi for more information.
+
+
+## 
+1. We want to create models using dev 
+2. 
+
+
+
+yarn install
+yarn develop
